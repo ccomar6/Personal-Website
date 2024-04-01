@@ -1,8 +1,19 @@
-body{background-color: gainsboro;}
-
-nav{background-color: aliceblue;
-width: 100vw;
-height: 5vw;;
-background-color: bisque;
- font-size: larger;}
+header{background-color: forestgreen;}
+.title{color:brown;
+background-color: blanchedalmond;
+height: 15vh;
+text-align: center;}
+.hockey-pic{
+    height: 40vh;
+    width: 35vw;
+    
+}
+.hunting-pic{
+    height: 40vh;
+    width: 40vw;
+}
+.fishing-pic{
+    height: 50vh;
+    width: 35vw;
+}
  
