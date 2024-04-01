@@ -1,0 +1,19 @@
+main{display: flex;
+flex-wrap: wrap;
+align-items: center;
+gap: 10px 20px;
+background-color: antiquewhite;
+justify-content: space-around;
+}
+
+
+p{width: 50vw;
+justify-content: space-evenly;
+border: 1px black solid ;}
+
+
+header{background-color: aqua;}
+
+
+h1{background-color:burlywood;
+align-items: center;}
