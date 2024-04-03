@@ -1,0 +1,18 @@
+header{background-color: forestgreen;}
+.title{color:rgba(86, 18, 18, 0.713);
+background-color: blanchedalmond;
+height: 15vh;
+text-align: center;}
+.hockey-pic{
+    height: 40vh;
+    width: 35vw;
+    
+}
+.hunting-pic{
+    height: 40vh;
+    width: 40vw;
+}
+.fishing-pic{
+    height: 50vh;
+    width: 35vw;
+}
